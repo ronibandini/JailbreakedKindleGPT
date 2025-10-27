@@ -16,6 +16,9 @@ openAI API Key
 4. Edit settings in the .sh file
 5. Run with bash kindlegpt.sh
 
+Complete tutorial https://hackaday.io/project/204363/details/
+Spanish information https://bandini.medium.com/c%C3%B3mo-ejecutar-chatgpt-en-kindle-paperwhite-87b009eb55ce
+
 # Contact
 Roni Bandini, October 2025
 https://www.instagram.com/ronibandini/
